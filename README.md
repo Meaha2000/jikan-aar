@@ -86,7 +86,7 @@ Check out **[Anime Akashic Records (aarecords.tech)](https://aarecords.tech)**!
 **Important:** **We do not own, author, or claim ownership of the anime, manga, character, or review metadata served through Jikan-AAR.**
 
 - **Data Source:** All anime/manga catalog data is sourced from **[MyAnimeList (myanimelist.net)](https://myanimelist.net/)**.
-- **API Engine:** Powered by the open-source **[Jikan REST API (`jikan-me/jikan-rest`)](https://github.com/jikan-me/jikan-rest)** project created by the Jikan team ([jikan.moe](https://jikan.moe/)). All credit for the Jikan parser, schema, and open-source API framework belongs to the Jikan maintainers and contributors.
+- **API Engine:** Powered by the open-source **[Jikan REST API (`jikan-me/jikan-rest`)](https://github.com/jikan-me/jikan-rest)** project created by the Jikan team. All credit for the Jikan parser, schema, and open-source API framework belongs to the Jikan maintainers and contributors.
 - **Hosting & Edge Infrastructure:** Self-hosted, cached, and operated independently by **[Anime Akashic Records (AAR)](https://aarecords.tech)** as a free community mirror. Jikan-AAR is not officially affiliated with or endorsed by MyAnimeList or the official Jikan hosted service.
 
-If you love Jikan, please consider supporting the official **[Jikan Project](https://jikan.moe/)**!
+If you love Jikan, please consider starring and supporting the official **[jikan-me/jikan-rest](https://github.com/jikan-me/jikan-rest)** open-source repository!
